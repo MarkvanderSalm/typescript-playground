@@ -1,0 +1,10 @@
+{
+  "name": "typescript-playground",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "typescript": "^5.1.6"
+  }
+}
